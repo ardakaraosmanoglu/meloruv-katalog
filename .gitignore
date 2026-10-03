@@ -1,0 +1,12 @@
+# Publish only the site: index.html and the image folders it uses.
+/*
+!/index.html
+!/.gitignore
+!/.nojekyll
+!/maraton/
+/maraton/*
+!/maraton/images/
+!/lady hurrem/
+/lady hurrem/*
+!/lady hurrem/images/
+.DS_Store
