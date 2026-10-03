@@ -10,3 +10,6 @@
 /lady hurrem/*
 !/lady hurrem/images/
 .DS_Store
+!/superstacy/
+/superstacy/*
+!/superstacy/images/
